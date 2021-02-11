@@ -1,0 +1,91 @@
+body{
+  background-color:blue;
+  font-style: normal;
+font-family: sans-serif;
+}
+
+.top{
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+  border: 2px 2px solid blue;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.input1{
+  padding: 7px 0;
+  text-align: center;
+  border-radius: 10px;
+  margin-left: 35%;
+  margin-top: 12px;
+/*  padding-right: 40px;*/
+font-size: 20px;
+padding-right: 200px;
+text-align: left;
+
+}
+h1{
+  text-align: center;
+  color: white;
+  font-size: 70px;
+  font-weight: bolder;
+  margin:0;
+}
+p,h5,h6{
+  text-align: center;
+  color: white;
+  text-emphasis-position: above;
+}
+.submit{
+  text-align: center;
+  padding: 8px;
+  color:red;
+  margin:4px;
+}
+.btn{
+  text-align: center;
+  padding:8px 18px;
+  background-color: mediumblue;
+  font-size: 20px;
+  border:none;
+  color:white;
+}
+#btn1{
+  margin-left: 40%;
+}
+/*body{
+      margin: 0;
+      padding: 0;
+      color: black;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      background: rgb(24, 24, 24);
+      font-family: 'Segoe UI', sans-serif;
+    }
+    */
+h2{
+  /*line-height: -2px;*/
+  margin-top: 3px;
+}
+span{
+  margin-top: -.5rem;
+  line-spacing:-1px;
+  margin-top: 2px;
+  padding-bottom: 2px;
+}
+.btn a{
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+}
+#email1{
+  margin-bottom:0;
+}
+.lower1{
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  line-height: -.5rem;
+}

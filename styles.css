@@ -1,0 +1,39 @@
+#img1{
+  border-radius: 80px;
+  border-style: dotted;
+  border-width: thin;
+  height: 70px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-spacing: inherit;
+}
+.navbar{
+  display: inline-block;
+  position: static;
+  text-align: center;
+}
+.navbar ul{
+  display: flex;
+  flex-wrap: wrap;
+}
+/*.navbar ul li a{
+  text-decoration: none;
+  text-align: center;
+  text-decoration-style: solid;
+  padding-bottom: 40px;
+
+}*/
+.navbar ul li{
+  margin-right: 25px;
+  text-size:bold;
+  text-align: center;
+  list-style: none;
+}
+table{
+  justify-content:center;
+  text-align:center center;
+  border: 2px solid red;
+}
+body{
+  background-color: lightgreen;
+}

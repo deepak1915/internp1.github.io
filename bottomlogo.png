@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<!-- saved from url=(0031)https://welcome.legalmind.tech/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="LegalMind">
+  <link rel="shortcut icon" href="https://d33wubrfki0l68.cloudfront.net/30568f290d29d4a4933ee2d9ae9423e469b3bf69/fc97f/assets/images/logo.png" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      color: black;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      background: rgb(24, 24, 24);
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    #logo {
+      height: auto;
+      width: fit-content;
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+      background-color: #2057c4;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-bottom: 1.2vh;
+      padding-top: 1vh;
+      box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.1);
+      margin-left: 8%;
+    }
+
+    .overlay1 {
+      position: relative;
+      z-index: 1;
+    }
+
+    .overlay1::before {
+      content: "";
+      display: block;
+      position: absolute;
+      z-index: -1;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background: rgb(24, 24, 24);
+      opacity: 0.9;
+    }
+
+    .bg-img1 {
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-color: rgb(24, 24, 24);
+      ;
+    }
+
+    .size1 {
+      width: 100%;
+      height: 110vh;
+    }
+
+    .main-div {
+      background: white;
+      margin: auto;
+      width: 80%;
+      padding: 5px;
+      margin-top: 5vh;
+    }
+
+    .illus {
+      height: 80%;
+      width: 100%;
+      padding-top: 12px;
+    }
+
+    .illus-mb {
+      height: 250px;
+      width: 250px;
+      padding-top: 12px;
+    }
+
+    .sbtn {
+      width: 100%;
+      height: 50px;
+      background: rgb(24, 24, 24);
+    }
+
+    .footer {
+      background-color: rgb(24, 24, 24);
+      color: white;
+
+    }
+
+    .copyright {
+      background-color: rgb(24, 24, 24);
+      color: white;
+    }
+
+
+    #footer a {
+      color: white;
+      cursor: pointer;
+    }
+
+    #footer a:hover {
+      color: white;
+    }
+
+    .copyright a {
+      color: white;
+      cursor: pointer;
+    }
+
+    .copyright a:hover {
+      color: white;
+    }
+
+    .title-text {
+      font-weight: 700;
+      font-size: 1.5rem;
+    }
+
+    .container {
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+    @media (min-width: 768px) {
+      .container {
+        width: 750px;
+      }
+    }
+
+    @media (min-width: 992px) {
+      .container {
+        width: 970px;
+      }
+    }
+
+    @media (min-width: 1200px) {
+      .container {
+        width: 1170px;
+      }
+    }
+
+    .form-control {
+      width: 90%;
+      margin-top: 10px;
+      max-width: 300px;
+      height: 30px;
+      padding: 5px;
+    }
+
+    .btn {
+      width: 90%;
+      max-width: 300px;
+      color: white;
+      padding: 5px;
+    }
+  </style>
+  <link rel="canonical" href="https://welcome.legalmind.tech/">
+  <title>LegalMind</title>
+<!-- Facebook Pixel Code -->
+<script src="./bottomlogo_files/305933090741155" async=""></script><script async="" src="./bottomlogo_files/fbevents.js.download"></script><script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '305933090741155'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=305933090741155&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code --></head>
+
+<body class="bg-img1 size1 overlay1">
+  <div id="logo">
+    <a href="https://legalmind.tech/"> 
+    <div style="height: auto; width: auto; display: inline-block">
+      <amp-img src="https://d33wubrfki0l68.cloudfront.net/b477ff7c7d6ceb0409c7777a9d58ec38f358b8ef/6219d/assets/images/logo-single.png" alt="LegalMind Logo" width="50px" height="50px" style="
+              height: 50px;
+              width: 50px;
+              vertical-align: middle;
+              line-height: 200px;
+            "></amp-img>
+    </div>
+    <div style="
+            height: auto;
+            width: auto;
+            vertical-align: middle;
+            display: inline-block;
+          ">
+      <span style="
+              line-height: 60px;
+              font-size: 2em;
+              font-weight: 600;
+              color: white;
+            ">LegalMind<sup style="font-weight: 350">TM</sup></span>
+    </div>
+     </a> 
+  </div>
+  <div class="container" style="margin-bottom: 18vh">
+    <div class="main-div row mx-auto mt-5">
+
+
+      <div class="col-md-7 p-5 zcwf_lblLeft crmWebToEntityForm" id="crmWebToEntityForm">
+        <p class="title-text">
+          How is AI transforming the Indian Legal System?
+        </p>
+        <p class="subtitle-text">
+          Get this e-book by an anonymous insider worth <b>INR 1599</b> for FREE!
+        </p>
+        <div class=" d-md-none">
+          <img src="./bottomlogo_files/illus.png" alt="illus" class="illus-mb">
+          <p class="text-center mt-2 fs-2 fw-bold">
+            <strike>INR 1599/-</strike> <br><span style="color: blue;">FREE TODAY!</span>
+          </p>
+          <p class="text-center fw-bolder fs-4" style="color: red;" id="timer2"></p>
+        </div>
+        <form action="https://crm.zoho.in/crm/WebToLeadForm" name="WebToLeads147702000000232001" method="POST" onsubmit="javascript:document.charset=&quot;UTF-8&quot;; return checkMandatory147702000000232001()" accept-charset="UTF-8">
+          <input type="text" style="display:none;" name="xnQsjsdp" value="00be6bc6e23ee5653fdded3d66df77f140357967d20b2637a927615b44aea2ac">
+        <input type="hidden" name="zc_gad" id="zc_gad" value="">
+        <input type="text" style="display:none;" name="xmIwtLD" value="5629f1e21c92e4583e37a4f99b12a7e552f702a13710146976b04dc1a85cb931">
+        <input type="text" style="display:none;" name="actionType" value="TGVhZHM=">
+        <input type="text" style="display:none;" name="returnURL" value="https://welcome.legalmind.tech/redirect"> 
+            <div class="row zcwf_row">
+              <div class="col-sm zcwf_col_fld fname">
+                <div class="form-floating mb-3">
+                  <input required="" type="text" class="form-control" id="First_Name" name="First Name" maxlength="40" placeholder="First Name*">
+                </div>
+                <div class="zcwf_col_help"></div>
+              </div>
+              <div class="col-sm zcwf_col_fld lname">
+                <div class="form-floating mb-3">
+                  <input required="" type="text" class="form-control" id="Last_Name" name="Last Name" maxlength="80" placeholder="Last Name*">
+                </div>
+                <div class="zcwf_col_help"></div>
+              </div>
+            </div>
+            <div class="row zcwf_row">
+              <div class="col-sm zcwf_col_fld">
+                <div class="form-floating mb-3">
+                  <input required="" type="email" ftype="email" id="Email" name="Email" maxlength="100" class="form-control" placeholder="Email *">
+                </div>
+                <div class="zcwf_col_help mt-3">
+                  <p class="text-center">🔒 We'll never share your email with anyone else.</p>
+                </div>
+              </div>
+            </div>
+            <button type="submit" id="formsubmit" class="btn btn-dark sbtn formsubmit zcwf_button" value="Submit" title="Submit">Send me the Book!</button>
+            <p class="text-muted text-center mt-2">
+              Send me the book and show me how I can optimise my legal research today!
+            </p>
+
+            <script>
+              function validateEmail147702000000232001() {
+                var form = document.forms['WebToLeads147702000000232001'];
+                var emailFld = form.querySelectorAll('[ftype=email]');
+                var i;
+                for (i = 0; i < emailFld.length; i++) {
+                  var emailVal = emailFld[i].value;
+                  if ((emailVal.replace(/^\s+|\s+$/g, '')).length != 0) {
+                    var atpos = emailVal.indexOf('@');
+                    var dotpos = emailVal.lastIndexOf('.');
+                    if (atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= emailVal.length) {
+                      alert('Please enter a valid email address. ');
+                      emailFld[i].focus();
+                      return false;
+                    }
+                  }
+                }
+                return true;
+              }
+
+              function checkMandatory147702000000232001() {
+                var mndFileds = new Array('First Name', 'Last Name', 'Email');
+                var fldLangVal = new Array('First Name', 'Last Name', 'Email');
+                for (i = 0; i < mndFileds.length; i++) {
+                  var fieldObj = document.forms['WebToLeads147702000000232001'][mndFileds[i]];
+                  if (fieldObj) {
+                    if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length == 0) {
+                      if (fieldObj.type == 'file') {
+                        alert('Please select a file to upload.');
+                        fieldObj.focus();
+                        return false;
+                      }
+                      alert(fldLangVal[i] + ' cannot be empty.');
+                      fieldObj.focus();
+                      return false;
+                    } else if (fieldObj.nodeName == 'SELECT') {
+                      if (fieldObj.options[fieldObj.selectedIndex].value == '-None-') {
+                        alert(fldLangVal[i] + ' cannot be none.');
+                        fieldObj.focus();
+                        return false;
+                      }
+                    } else if (fieldObj.type == 'checkbox') {
+                      if (fieldObj.checked == false) {
+                        alert('Please accept  ' + fldLangVal[i]);
+                        fieldObj.focus();
+                        return false;
+                      }
+                    }
+                    try {
+                      if (fieldObj.name == 'Last Name') {
+                        name = fieldObj.value;
+                      }
+                    } catch (e) {}
+                  }
+                }
+                if (!validateEmail147702000000232001()) {
+                  return false;
+                }
+                document.querySelector('.crmWebToEntityForm .formsubmit').setAttribute('disabled', true);
+              }
+
+              function tooltipShow147702000000232001(el) {
+                var tooltip = el.nextElementSibling;
+                var tooltipDisplay = tooltip.style.display;
+                if (tooltipDisplay == 'none') {
+                  var allTooltip = document.getElementsByClassName('zcwf_tooltip_over');
+                  for (i = 0; i < allTooltip.length; i++) {
+                    allTooltip[i].style.display = 'none';
+                  }
+                  tooltip.style.display = 'block';
+                } else {
+                  tooltip.style.display = 'none';
+                }
+                
+              }
+
+              function startTimer(duration, display) {
+                  var timer = duration, minutes, seconds;
+                  setInterval(function () {
+                      minutes = parseInt(timer / 60, 10);
+                      seconds = parseInt(timer % 60, 10);
+
+                      minutes = minutes < 10 ? "0" + minutes : minutes;
+                      seconds = seconds < 10 ? "0" + seconds : seconds;
+
+                      display.textContent = minutes + " : " + seconds;
+
+                      if (--timer < 0) {
+                          timer = duration;
+                      }
+                  }, 1000);
+              }
+
+              window.onload = function () {
+                  var fifteenMinutes = 60 * 15,
+                      display2 = document.querySelector('#timer2');
+                  startTimer(fifteenMinutes, display2);
+              };
+            </script>
+            <!-- Do not remove this --- Analytics Tracking code starts -->
+            <script id="wf_anal" src="./bottomlogo_files/WebFormAnalyticsServeServlet">
+            </script></form></div></div></div></body></html>
